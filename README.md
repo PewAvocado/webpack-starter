@@ -1,14 +1,17 @@
 # webpack-starter
+
 My main template for projects
 
 This is going to be my main template so I can start any project faster.
+Now it has jest and babel to run tests.
 
 How to use?
+
 1. Start with : npm install
-That will install the needed plugins and make sure everything can run proeprly.
+   That will install the needed plugins and make sure everything can run proeprly.
 
 2. Use : npm start
-This will start the live server so you can see every change you start making.
+   This will start the live server so you can see every change you start making.
 
 3. Crear the new branch gh-ages, using git branch gh-pages
 
